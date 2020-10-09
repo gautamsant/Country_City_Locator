@@ -11,7 +11,7 @@ To start the application run the following commands
 
 You can import the project in any IDE and use the CountryLocatorApplication class to run the application.
 
-The Application will start on `8080` port which you can access via browser at "http://localhost:8080/country/{cityname}".
+The Application will start on `8080` port which you can access via browser at "http://localhost:8080/country?city={cityName}".
 
 Providing the city name will return the country associated with it.
 
